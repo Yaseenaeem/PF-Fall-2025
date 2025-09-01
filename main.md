@@ -2,7 +2,7 @@
 ## Github
 *MD Files contain description*\
 **Github contains repo**\
-***Github contain repo***\
+***Github contain repo***
 ### Main Concepts
 * Branches
 * Pull request
